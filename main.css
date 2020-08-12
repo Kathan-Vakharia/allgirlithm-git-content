@@ -2,3 +2,18 @@
     padding:0;
     margin:0;
 }
+a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+}
+.main-nav{
+    background:aliceblue;
+}
+.main-nav ol{
+    margin-bottom:1rem;
+    padding:0.7rem;
+    display:flex;
+    justify-content: space-around;
+    list-style-type: none;
+    
+}

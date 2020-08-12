@@ -3,11 +3,15 @@
   margin: 0;
 }
 a {
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   text-decoration: none;
+  font-weight: normal;
 }
 .main-nav {
-  background: aliceblue;
+  background: wheat;
+  font-size: larger;
+  font-family: Arial, Helvetica, sans-serif ;
+
 }
 .main-nav ol {
   margin-bottom: 1rem;
